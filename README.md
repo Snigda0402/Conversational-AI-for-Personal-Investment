@@ -1,6 +1,6 @@
 # Conversational AI for Personal Investment
 
-Note: This is aa research that I am currently working on.
+Note: This is a research that I am currently working on.
 
 ## Objective:
 Provide summaries of industry overviews, and provide financial summaries to help the user with their personal investment decisions.
